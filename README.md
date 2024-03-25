@@ -3,6 +3,7 @@ Mini project for OS-EL
 
 Simple Kernel Implementation using QEMU
 - HelloWorld
+- Ascii Characters
 - Keyboard
 - Calculator
 
